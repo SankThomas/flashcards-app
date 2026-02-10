@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+* {
+  font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.transform-style-preserve-3d {
+  transform-style: preserve-3d;
+}
+
+button {
+  cursor: pointer;
+}
